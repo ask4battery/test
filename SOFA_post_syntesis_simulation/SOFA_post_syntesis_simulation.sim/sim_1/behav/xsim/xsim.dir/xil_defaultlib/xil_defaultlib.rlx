@@ -1,0 +1,8 @@
+0.6
+2019.2
+Nov  6 2019
+21:42:20
+/home/eligar/Desktop/SOFA/BENCHMARK/counter/counter_tb.v,1648279647,verilog,,,,upcounter_testbench,,,,,,,,
+/home/eligar/Desktop/SOFA/BENCHMARK/counter/primitives.v,1647240693,verilog,,/home/eligar/Desktop/SOFA/BENCHMARK/counter/counter_tb.v,,DFF;LUT_K;adder;dual_port_ram;fpga_interconnect;multiply;mux;single_port_ram,,,,,,,,
+/home/eligar/Desktop/SOFA/FPGA1212_QLSOFA_HD_PNR/FPGA1212_QLSOFA_HD_task/run001/vpr_arch/counter/MIN_ROUTE_CHAN_WIDTH/counter_post_synthesis.v,1648278856,verilog,,/home/eligar/Desktop/SOFA/BENCHMARK/counter/primitives.v,,counter,,,,,,,,
+/home/eligar/Desktop/SOFA_post_syntesis_simulation/SOFA_post_syntesis_simulation.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,

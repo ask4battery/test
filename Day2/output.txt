@@ -1,0 +1,5 @@
+vpr_status=success
+vpr_seconds=0
+rundir=/home/eligar/Desktop/Day2
+hostname=fpga-workshop-04
+error=

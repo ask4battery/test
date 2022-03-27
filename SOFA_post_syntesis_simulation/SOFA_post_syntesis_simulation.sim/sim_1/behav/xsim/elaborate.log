@@ -1,0 +1,22 @@
+Vivado Simulator 2019.2
+Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
+Running: /tools/Xilinx/Vivado/2019.2/bin/unwrapped/lnx64.o/xelab -wto fa5c301ab46040aeaed8d046dea713c6 --incr --debug typical --relax --mt 8 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot upcounter_testbench_behav xil_defaultlib.upcounter_testbench xil_defaultlib.glbl -log elaborate.log 
+Using 8 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4099] "/home/eligar/Desktop/SOFA/FPGA1212_QLSOFA_HD_PNR/FPGA1212_QLSOFA_HD_task/run001/vpr_arch/counter/MIN_ROUTE_CHAN_WIDTH/counter_post_synthesis.v" Line 2. Module counter doesn't have a timescale but at least one module in design has a timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.fpga_interconnect
+Compiling module xil_defaultlib.LUT_K(K=3,LUT_MASK=8'b010010)
+Compiling module xil_defaultlib.DFF
+Compiling module xil_defaultlib.LUT_K(K=4,LUT_MASK=16'b100000000...
+Compiling module xil_defaultlib.LUT_K(K=3,LUT_MASK=8'b010100)
+Compiling module xil_defaultlib.LUT_K(K=3,LUT_MASK=8'b10000000)
+Compiling module xil_defaultlib.LUT_K(K=4,LUT_MASK=16'b010100010...
+Compiling module xil_defaultlib.counter
+Compiling module xil_defaultlib.upcounter_testbench
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot upcounter_testbench_behav

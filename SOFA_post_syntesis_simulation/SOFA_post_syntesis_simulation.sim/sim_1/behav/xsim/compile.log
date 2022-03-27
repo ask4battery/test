@@ -1,0 +1,15 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/eligar/Desktop/SOFA/FPGA1212_QLSOFA_HD_PNR/FPGA1212_QLSOFA_HD_task/run001/vpr_arch/counter/MIN_ROUTE_CHAN_WIDTH/counter_post_synthesis.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module counter
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/eligar/Desktop/SOFA/BENCHMARK/counter/primitives.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module LUT_K
+INFO: [VRFC 10-311] analyzing module DFF
+INFO: [VRFC 10-311] analyzing module fpga_interconnect
+INFO: [VRFC 10-311] analyzing module mux
+INFO: [VRFC 10-311] analyzing module adder
+INFO: [VRFC 10-311] analyzing module multiply
+INFO: [VRFC 10-311] analyzing module single_port_ram
+INFO: [VRFC 10-311] analyzing module dual_port_ram
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/eligar/Desktop/SOFA/BENCHMARK/counter/counter_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module upcounter_testbench
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/eligar/Desktop/SOFA_post_syntesis_simulation/SOFA_post_syntesis_simulation.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
